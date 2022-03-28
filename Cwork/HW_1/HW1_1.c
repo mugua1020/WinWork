@@ -12,7 +12,7 @@ int main()
     buf[N - 1] = '\0';
    // printf("%s", buf);
  
-    printf("ok?\n");
+    printf("ok? have a try\n");
     return 0;
 
 }
